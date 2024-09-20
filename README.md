@@ -1,1 +1,2 @@
-# e-commerce-web-sites
+# E-commerce Website for Makeup Brand
+This project involves the development of a comprehensive e-commerce website dedicated to a makeup brand. The site will feature a user-friendly interface, allowing customers to browse through a wide range of makeup products, view detailed descriptions, and make secure purchases. Key functionalities include user account creation, shopping cart management, and payment processing, all designed to enhance the shopping experience and promote brand engagement.
